@@ -1,0 +1,1 @@
+"./button.obj" "./cprintf.obj" "./led.obj" "./main.obj" "./spi.obj" "./system.obj" "../lnk_msp430f2618.cmd" -llibc.a 
