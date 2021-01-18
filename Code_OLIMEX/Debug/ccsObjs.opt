@@ -1,0 +1,1 @@
+"./ADC12.obj" "./I2C.obj" "./SPI.obj" "./Timer.obj" "./led.obj" "./main.obj" "./system.obj" "../lnk_msp430f2618.cmd" -llibc.a 

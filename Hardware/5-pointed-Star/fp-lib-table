@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 5-pointed-Star_Footprint)(type KiCad)(uri ${KIPRJMOD}/5-pointed-Star_Footprint.pretty)(options "")(descr ""))
+)
